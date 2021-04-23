@@ -1,0 +1,38 @@
+I-3200
+
+LEITOR DE CÓDIGO DE BARRAS FIXO 2D
+Substituto do consagrado leitor Bematech S-3200, ainda mais moderno, rápido e completo. Tornando as operações de caixa mais rápidas e seguras.
+
+* Alta velocidade de leitura na captura de códigos, inclusive rasurados, molhados ou em embalagens curvadas. Permite leitura em telas de Smartphones;
+* Tecnologia de captura por imagem, com alta velocidade, maior ângulo de leitura e baixo consumo de energia;
+* Alimentação USB, dispensando fonte externa;
+* Leitura dos principais códigos 1D e 2D, inclusive FEBRABAN;
+* Fácil de configurar e utilizar;
+* Garantia de 5 anos.
+
+
+FICHA TÉCNICA
+
+TIPO				Fixo
+TECNOLOGIA DE LEITURA		Imager
+COR				Preto
+RESOLUÇÃO			4 mil
+PADRÃO DE CÓDIGO DE BARRAS	1D e 2D
+LEITURA DE TELAS		Sim
+TENSÃO ELÉTRICA			5 V
+CORRENTE ELÉTRICA		Durante utilização 400mA; Em stand by 90mA
+ELÉTRICA			Tensão elétrica: 4.5 ~ 5.5 V DC V1 ± 5% / Corrente elétrica: durante utilização 180mA / em stand by 40mA
+DIMENSÕES			140 x 82 x 152
+MATERIAL EXTERNO		ABS
+PESO				530g
+INTERFACE DE COMUNICAÇÃO	USB
+COMPRIMENTO DO CABO		2 m
+TEMPERATURA DE OPERAÇÃO		0 a 50°C
+TEMPERATURA DE ARMAZENAMENTO	-40 a 50°C
+UMIDADE				5 a 95%
+USABILIDADE			Plug & Play
+CERTIFICAÇÕES			CE/FCC
+INTERFACE DE COMUNICAÇÃO	USB
+ÍNDICE DE PROTEÇÃO		Ip 52
+TIPOS DE CÓDIGOS DE BARRAS RECONHECIDOS	PC/EAN, Code 128, Code 39, Code 93, Code 11, Matrix 2 of 5, Interleaved 2 of 5, Industrial 2 of 5, Matrix 2 of 5, Codabar, MSI/Plessy, GS1 Databar, China Postal, Italian Pharmacy, MSI, PDF417, MicroPDF417, Data Matrix, Maxicode, QR Code, MicroQR, Aztec
+GARANTIA			5 anos

@@ -1,0 +1,35 @@
+CM-15 H
+
+MONITOR TOUCHSCREEN
+Múltiplas entradas de vídeo:
+
+O modelo CM-15 H, possui entrada de vídeo HDMI, disponivel na grande maioria de desktops do mercado, também disponibiliza a opção de entrada VGA, para compatibilizar com o legado.
+
+Versátil:
+O CM-15 H possui dupla articulação, permitindo melhor ajuste de altura e inclinação. Sua base possui furação VESA, que permite sua fixação em suportes e paredes, além do seu uso sobre a mesa ou desktops.
+
+
+FICHA TÉCNICA
+
+CARACTERÍSTICAS		Touch Screen
+TAMANHO DA DIAGONAL	15” LCD (LED) TFT matriz ativa
+ÁREA ATIVA		04:03 - 304.1mm × 228.1mm
+PAINEL TOUCH		Painel Touch Capacitivo (Multi-Touch)
+TEMPO DE RESPOSTA	5 ms
+TAXA DE CONTRASTE	400:1
+BRILHO			250 nits
+RESOLUÇÃO		1024x768@75Hz (Não-Intercalado)
+ÂNGULO DE VISÃO		Horizontal:140° Vertical:125°
+ENTRADA DE VÍDEO	VGA - HDMI
+CONECTORES		VGA (D-SUB 15 Pinos) Conector de Energia (IEC C14) USB Tipo B (para Touch) Stereo Phone Jack (P2) - Audio IN HDMI
+DIMENSÕES		(L X A X P): 376 x 285 x 210mm
+PESO LÍQUIDO		4,650 kg
+FONTE DE ENERGIA	Tensão: 100-240 VAC, 50/60Hz, fonte universal Consumo ativo <40 Watt Máx. Modo de economia de energia elétrica (Standby) < 1 Watt
+AUTO FALANTE INTERNO:	2x Auto Falantes
+CERTIFICAÇÕES		CE, FCC, CH e ROHS
+EAN PRODUTO		MONITOR TOUCH SCREEN 15 CM-15: 7898378254261
+INTERFACE USUÁRIO	Led Indicador Ativo – cor azul Led Indicador Standby – cor laranja
+CONDIÇÕES DE OPERAÇÃO	Temperatura Operação 5°C a 40°C Umidade 20% ~ 80% R.H.
+REGULAÇÃO | CERTIFICAÇÕES FCC - CE
+OPÇÕES DE MONTAGEM	Suporte VESA 100 x 100 mm
+GARANTIA	1 	ano
