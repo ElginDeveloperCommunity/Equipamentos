@@ -9,11 +9,11 @@ Ele está disponível na versão Ethernet e WiFi, possuindo um completo software
 
 ### Por onde começar?
 =================  
-Baixe o VPNet Plus (software de comunicação) para utilizar e configurar o equipamento [aqui](). 
+Baixe o VPNet Plus (software de comunicação) para utilizar e configurar o equipamento [aqui](https://github.com/ElginDeveloperCommunity/Equipamentos/tree/master/Elgin/Terminal%20de%20Consulta/Utilit%C3%A1rios). 
 
 
 Todas as funcionalidades do aplicativo e os demais exemplos estão disponíveis nos links abaixo: 
 
 ### Documentação
 =================  
-[Documentação]()
+[Documentação](https://github.com/ElginDeveloperCommunity/Equipamentos/tree/master/Elgin/Terminal%20de%20Consulta/Documenta%C3%A7%C3%A3o)
