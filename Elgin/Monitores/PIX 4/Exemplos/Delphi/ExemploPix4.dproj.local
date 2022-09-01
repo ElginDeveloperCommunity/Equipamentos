@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/08/11 12:56:18.000.596,=C:\Users\memor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/11 13:03:24.000.687,C:\Users\memor\Documents\Embarcadero\Studio\pix4\frmPix4.pas=C:\Users\memor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/08/11 13:03:24.000.687,C:\Users\memor\Documents\Embarcadero\Studio\pix4\frmPix4.dfm=C:\Users\memor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/08/11 13:03:41.000.108,C:\Users\memor\Documents\Embarcadero\Studio\pix4\Pix4.dproj=C:\Users\memor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2022/08/11 13:22:56.000.358,=C:\Users\memor\Documents\Embarcadero\Studio\pix4\FuncoesDLL.pas</Transaction>
+    <Transaction>2022/08/11 13:58:59.000.313,C:\Users\memor\Documents\Embarcadero\Studio\pix4\ExemploPix4.dproj=C:\Users\memor\Documents\Embarcadero\Studio\pix4\Pix4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>

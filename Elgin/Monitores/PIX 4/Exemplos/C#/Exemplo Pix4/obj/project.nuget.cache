@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "0D5nNZR/aDtzcOHvnEz7ZLUtbXiD0q2l80IMHme3sbqEfPTCEphRWF3HeF6gZL8/j7Uu/hIHuunf5JJbHmvMdw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Foggiatto\\OneDrive - LMX\\Área de Trabalho\\E1 Pix4\\Exemplo\\Exemplo Pix4\\Exemplo Pix4\\Exemplo Pix4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Foggiatto\\.nuget\\packages\\metromodernui\\1.4.0\\metromodernui.1.4.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "O pacote 'MetroModernUI 1.4.0' foi restaurado usando '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' em vez da estrutura de destino do projeto 'net6.0-windows7.0'. Esse pacote pode não ser totalmente compatível com o seu projeto.",
+      "libraryId": "MetroModernUI",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

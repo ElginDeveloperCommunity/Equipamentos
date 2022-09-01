@@ -1,0 +1,21 @@
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\Exemplo Pix4.exe
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\Exemplo Pix4.deps.json
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\Exemplo Pix4.runtimeconfig.json
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\Exemplo Pix4.dll
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\Exemplo Pix4.pdb
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\MetroFramework.Design.dll
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\MetroFramework.Fonts.dll
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\bin\x64\Debug\net6.0-windows\MetroFramework.dll
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.csproj.AssemblyReference.cache
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo_Pix4.Form1.resources
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.csproj.GenerateResource.cache
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.AssemblyInfoInputs.cache
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.AssemblyInfo.cs
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.csproj.CoreCompileInputs.cache
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.csproj.CopyComplete
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.dll
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\refint\Exemplo Pix4.dll
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.pdb
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\Exemplo Pix4.genruntimeconfig.cache
+C:\Users\Foggiatto\OneDrive - LMX\Área de Trabalho\E1 Pix4\Exemplo Pix4\Exemplo Pix4\obj\x64\Debug\net6.0-windows\ref\Exemplo Pix4.dll

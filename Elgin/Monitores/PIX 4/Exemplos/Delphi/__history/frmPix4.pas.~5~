@@ -1,0 +1,50 @@
+unit frmPix4;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Vcl.StdCtrls, Vcl.ExtCtrls, FuncoesDLL;
+
+type
+  TPix4 = class(TForm)
+    memoLogs: TMemo;
+    btnConectar: TButton;
+    btnVersaoFirmware: TButton;
+    btnDesconectar: TButton;
+    btnInicializar: TButton;
+    btnApresentaImagem: TButton;
+    btnApresentaTextoColorido: TButton;
+    btnApresentaQRCode: TButton;
+    GroupBox1: TGroupBox;
+    editPorta: TEdit;
+    Label1: TLabel;
+    procedure FormCreate(Sender: TObject);
+    procedure btnConectarClick(Sender: TObject);
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  Pix4: TPix4;
+
+implementation
+
+{$R *.dfm}
+
+procedure TPix4.btnConectarClick(Sender: TObject);
+var
+  ret : Integer;
+begin
+  ret := FuncoesDLL.AbreConexaoDisplay(PAnsiChar(AnsiString(editPorta.Text)));
+
+  if ret = 0 then
+    memoLogs.Lines.Add('Conexão realizada com sucesso')
+  else
+    ShowMessage('Não foi possível realizar a conexão: Erro - ' + IntToStr(ret));
+
+end;
+
+end.
